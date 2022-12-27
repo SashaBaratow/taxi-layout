@@ -693,6 +693,9 @@ footer{
        }
    }
 }
+.nav-bar{
+    display: none;
+}
 @media (max-width: 1400px) {
     main .benefits .container .items .item{
         gap: 20px;
